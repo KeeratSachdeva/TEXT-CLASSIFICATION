@@ -1,0 +1,15 @@
+Project : Text Classification (Using Own NaiveBayes' Classifier)
+
+
+Below is a brief description of the various files and folders present in this Repository:
+
+
+1. The folder mini_newsgroups is the TESTING DATA. (UNTRACKED)
+
+2. The folder 20 news_groups is the TRAINING DATA. (UNTRACKED) We have 19,997 Training documents/files and 2,000 Testing documents/files. 
+DATASET - http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
+
+3. Project (Text Classification).ipynb is the .ipynb file comprising the code.(TRACKED)
+ 
+
+ALL THE CODE EXPLAINATION IS MENTIONED AS COMMENTS IN THE PYTHON NOTEBOOK
